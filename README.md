@@ -15,7 +15,7 @@ When you first click the "Analyze" button Please wait couple of minutes(based on
 1. **Clone the repository**
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/erdogan98/accent-classification.git
    cd <repo-directory>
    ```
 2. **Create and activate a virtual environment**
